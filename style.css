@@ -1,0 +1,24 @@
+.contenido{background-color: rgb(63, 80, 63);}
+h1,h2,cite{color: white;
+    text-align: center;
+    }
+p{
+    color:white
+}
+.titulo{background-color: rgb(207, 117, 0);
+        height: 20%;
+        line-height: 600%;
+}
+.class1{
+    display: inline-block;
+    float: right;
+}
+a {color:rgb(0, 0, 0);
+    font-size: 40px;
+    display:inline-block;
+    text-align:center;
+    text-decoration: none;    
+    background: #e2b501e3;
+    margin:40px 20px;
+    padding:20px 40px;
+    box-shadow:4px 4px 4px #BC9D1E}
